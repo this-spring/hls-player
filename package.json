@@ -1,0 +1,28 @@
+{
+  "name": "hls-player",
+  "version": "1.0.0",
+  "description": "hls play by canvas and webaudio-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/this-spring/hls-player.git"
+  },
+  "keywords": [
+    "hls",
+    "webassembly",
+    "player",
+    "pcm",
+    "yuv",
+    "aac",
+    "h264"
+  ],
+  "author": "xiuquanxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/this-spring/hls-player/issues"
+  },
+  "homepage": "https://github.com/this-spring/hls-player#readme"
+}
