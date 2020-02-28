@@ -4,7 +4,7 @@
   "description": "hls play by canvas and webaudio-api",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "dev": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/this-spring/hls-player/issues"
   },
-  "homepage": "https://github.com/this-spring/hls-player#readme"
+  "homepage": "https://github.com/this-spring/hls-player#readme",
+  "devDependencies": {
+    "ts-loader": "^3.5.0",
+    "typescript": "^3.8.2",
+    "webpack-cli": "^3.3.11"
+  }
 }
