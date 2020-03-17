@@ -29,5 +29,8 @@
     "ts-loader": "^3.5.0",
     "typescript": "^3.8.2",
     "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "@types/node": "^13.9.1"
   }
 }
